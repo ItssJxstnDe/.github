@@ -1,4 +1,5 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/801925364993359936?theme=dark)](https://discord.com/users/801925364993359936)]
+<!--## 🌐 Socials:-->
+[![Discord Presence](https://lanyard.cnrad.dev/api/904755421464637451?theme=dark)](https://discord.com/users/904755421464637451)
 
 ## 👋 About us
 Soon...
