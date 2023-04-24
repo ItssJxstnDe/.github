@@ -1,6 +1,4 @@
-<p align="center">
-   <a href=https://github.com/NeonStudiosDe> <img width="420" height="420" src="https://cdn.discordapp.com/attachments/1074678074383269921/1084170132185698385/Design_ohne_Titel__1_-removebg-preview.png">
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/801925364993359936?theme=dark)](https://discord.com/users/801925364993359936)
 
 ## 👋 About us
 Soon...
