@@ -44,3 +44,11 @@
 <img src="https://raw.githubusercontent.com/ItssJxstnDe/ItssJxstnDe/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/epaglf9y9y13ibfveju75chdl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=epaglf9y9y13ibfveju75chdl&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
