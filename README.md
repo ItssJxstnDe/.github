@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItssJxstnDe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://cdn.discordapp.com/attachments/1104765445069885537/1262487157273006243/RwZ7gzc.png?ex=66a1fb0a&is=66a0a98a&hm=45e6fd1737a4d4a1faef091e451f66b75d22804d8797d6dc8822afae7b6980cd&"  />
 
 ###
@@ -30,5 +36,11 @@
 
 <div align="left">
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ItssJxstnDe/ItssJxstnDe/output/snake.svg" alt="Snake animation" />
 
 ###
