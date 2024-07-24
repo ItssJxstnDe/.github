@@ -39,16 +39,18 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ItssJxstnDe/ItssJxstnDe/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/epaglf9y9y13ibfveju75chdl">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=epaglf9y9y13ibfveju75chdl&count=5&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItssJxstnDe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
